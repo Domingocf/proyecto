@@ -1,0 +1,11 @@
+{
+    "name": "domingo_cf/musica",
+    "autoload": {
+        "psr-4": {
+            "DomingoCf\\Musica\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
